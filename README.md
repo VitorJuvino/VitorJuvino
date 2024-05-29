@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/VitorJuvino">
-  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendesczgmt&show_icons=true&theme=tokyonight&line_height=20&hide=css"/> </a>
+  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorJuvino&show_icons=true&theme=tokyonight&line_height=20&hide=css"/> </a>
   <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=tokyonight&line_height=33&hide=css"/> </a>
 </div>
 <div style="display: inline_block"><br>
