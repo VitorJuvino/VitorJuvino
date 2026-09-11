@@ -18,7 +18,7 @@
   
   ##
 
-  - 💻 Cursando Análise e Desenvolvimento de Sistemas
+  - 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
   ##
   
